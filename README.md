@@ -25,8 +25,8 @@ Após a execução do Docker, você pode acessar sua área administrativa atrav�
 <table>
 <thead>
 	<tr>
-		<th>produtor.py</th>
-		<th>consumidor.py</th>
+		<th>produtor.py (TX)</th>
+		<th>consumidor.py (RX)</th>
 	</tr>
 </thead>
 <tbody>
