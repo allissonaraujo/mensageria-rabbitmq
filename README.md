@@ -7,6 +7,8 @@ Mensageria é o conjunto de tecnologias e práticas usadas para enviar, receber 
 
 Em vez de depender de chamadas diretas e síncronas, onde um sistema precisa esperar a resposta do outro, a mensageria permite que os sistemas se comuniquem de forma desacoplada, enviando mensagens que podem ser processadas quando o receptor estiver disponível.
 
+![](https://www.cloudamqp.com/img/blog/rabbitmq-beginners-updated.png)
+
 ## O que eu utilizei como base para este estudo?
 
 Utilizei Python como linguagem e o RabbitMQ rodando em Docker, que pode ser executado na sua máquina com o comando abaixo:
